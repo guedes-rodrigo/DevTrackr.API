@@ -1,0 +1,6 @@
+@DevTrackr.API_HostAddress = http://localhost:5285
+
+GET {{DevTrackr.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
